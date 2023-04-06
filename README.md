@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://github.com/er-gurpreet)
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="https://camo.githubusercontent.com/5a4c0ff4e6d942a82dd4171b9105fc36ee01edd17c5f1ff5afa78022e9570fca/68747470733a2f2f7777772e67696663656e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30382f6d6172696f2d6769662d342e676966">
+<img align="right" src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif" alt="er-gurpreet">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-gurpreet&label=Profile%20views&color=0e75b6&style=flat" alt="er-gurpreet" /> </p>
 
